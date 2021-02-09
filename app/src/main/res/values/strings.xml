@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SampleQRCodeScanner</string>
+    <string name="scan_anything">Scanning..</string>
+</resources>
