@@ -92,7 +92,7 @@ class MainActivity : AppCompatActivity() {
                 if (grantResults.isEmpty() || grantResults[0] != PackageManager.PERMISSION_GRANTED) {
                     Toast.makeText(
                         this,
-                        "You need the camera permission to be able to use this app",
+                        "You need the camera permission to use this app",
                         Toast.LENGTH_SHORT
                     ).show()
                 }
