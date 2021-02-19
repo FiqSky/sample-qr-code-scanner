@@ -1,0 +1,1 @@
+# sample-qr-code-scanner
