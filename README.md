@@ -8,3 +8,5 @@ ___
 ```buildoutcfg
 implementation 'com.budiyev.android:code-scanner:2.1.0'
 ```
+## Output
+![outputqrscann](https://user-images.githubusercontent.com/45449889/108604364-034a4680-73e0-11eb-9fa8-2ea236db9233.gif)
